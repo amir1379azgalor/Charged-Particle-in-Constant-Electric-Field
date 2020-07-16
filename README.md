@@ -1,6 +1,8 @@
 # Charged-Particle-in-Constant-Electric-Field
 ## Description
 
+![](images/48h0a9.gif)
+
 a Javafx simulation of the movement of a charged particle in constant electric field.
 
 
